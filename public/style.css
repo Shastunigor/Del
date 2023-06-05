@@ -1,0 +1,82 @@
+#app {
+  width: 100%;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+h4 {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+h5 {
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.BodyM {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.BodyL {
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.BodySmall {
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.CaptionM {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.CaptionL {
+  font-weight: 300;
+  font-size: 16px;
+}
+
+body {
+  flex-direction: column;
+}
+
+.wrapper {
+  width: 1110px;
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 25px;
+}
+header a {
+  text-decoration: none;
+  color: gray;
+  padding: 13px 0px;
+  width: 120px;
+}
+
+.main {
+  width: 100%;
+  height: 400px;
+}
+
+/*# sourceMappingURL=style.css.map */
